@@ -1,0 +1,15 @@
+Serve para remover ou desativar o endereço de e-mail associado a um usuário Git em nível global:
+$ git config --global user.email "git@gmail.com"
+
+Add pasta para repositório local:
+$ git add .
+
+Commitar:
+git commit -a -m "teste"
+
+
+Vincular repositório remoto com online:
+git remote add origin https://github.com/...
+
+Fazer push:
+git push origin master
