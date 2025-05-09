@@ -13,3 +13,9 @@ git remote add origin https://github.com/...
 
 Fazer push:
 git push origin master
+
+Fazer clone do repositório:
+git clone https:/github.com/...
+
+Fazer pull:
+git pull origin master
